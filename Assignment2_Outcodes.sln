@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment2_Outcodes", "Assignment2_Outcodes.csproj", "{784F7A1C-026D-CCDF-9FF9-D2AAC8AF05CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{784F7A1C-026D-CCDF-9FF9-D2AAC8AF05CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{784F7A1C-026D-CCDF-9FF9-D2AAC8AF05CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{784F7A1C-026D-CCDF-9FF9-D2AAC8AF05CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{784F7A1C-026D-CCDF-9FF9-D2AAC8AF05CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
